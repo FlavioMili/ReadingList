@@ -20,6 +20,8 @@ Feel free to add suggestions on how to better organize the system
 ## Contributing
 Your expertise and insight can help make this resource even better. I welcome contributions of all forms:
 
+Everyone should commit to good engineering practices. All names should be written in `CamelCase` and be relevant for the project
+
 - **Suggesting new resources:** If you know of a resource that should be included, please let me know!
 - **Improving existing entries:** Help refine the descriptions or update links as needed.
 - **Spreading the word:** Share this document with peers, students, and anyone else who might benefit.
