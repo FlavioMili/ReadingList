@@ -1,11 +1,13 @@
 # Distributed Systems
 
 ## Theory 
-1. Maarten Van Steen, Andrew S. Tanenbaum - Distributed Systems.
-2. Alex Petrov - Database Internals.
-3. Ian Gorton - Foundations of Scalable Systems.
-4. Martin Kleppmann - Designing Data-Intensive Applications.
+* Maarten Van Steen, Andrew S. Tanenbaum - Distributed Systems.
+    - [Get The Book Here](https://www.distributed-systems.net/index.php/books/ds4/)
+* Alex Petrov - Database Internals.
+* Ian Gorton - Foundations of Scalable Systems.
+* Martin Kleppmann - Designing Data-Intensive Applications.
+    - [Get The Book Here](https://lp.scylladb.com/designing-data-intensive-apps-book-offer?siteplacement=resourcecenter)
 
 ## Programming Distributed Systems
-1. Unmesh Joshi - Patterns of Distributed Systems.
-2. Christian Cachin, Rachid G., Luis R. - Introduction to Reliable and Secure Distributed Programming.
+* Unmesh Joshi - Patterns of Distributed Systems.
+* Christian Cachin, Rachid G., Luis R. - Introduction to Reliable and Secure Distributed Programming.
