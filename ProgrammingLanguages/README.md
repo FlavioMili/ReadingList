@@ -11,5 +11,5 @@
     - [Distributed Services With Go](https://pragprog.com/titles/tjgo/distributed-services-with-go/)
     - [Writing An Interpeter In Go](https://interpreterbook.com/)
     - [Writing A Compiler In Go](https://compilerbook.com/)
-
-
+* Rust
+    - [The Rust Programming Language - with quizzes](https://rust-book.cs.brown.edu/experiment-intro.html)
